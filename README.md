@@ -1,4 +1,4 @@
-#Hello Michal, 
+#Hello Michael, 
 
 These files are for homework in Matplotlib. :-)
 
