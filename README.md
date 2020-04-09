@@ -7,6 +7,12 @@ Questions
 Look across all generated figures and tables and write at least 3 observations or inferences that can be made from the data.
 Breakdown of Tasks
 
+![bay](Part-1/01-HW_PyPies/Images/PyPies.png)
+    
+![bay1](Part-1/02-HW_ScatterPy/Images/IceCreamSales.png)
+    
+![bay2](Part-1/03-HW_AvgRain/Images/avg_state_rain.png)
+
     Read in CSV data using pandas.
     Generate a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen. (Performed two ways for practice - one manually and the other using pandas.DataFrame.agg)
     Generate a bar plot using both Pandas's DataFrame.plot() and Matplotlib's pyplot that shows the number of data points for each treatment regimen.
@@ -23,11 +29,7 @@ Conclusions
     Capomulin and Ramicane had the most data points out of all the drugs present in the study.
     Capomulin and Ramicane were also the most successful drugs in reducing the size of the tumors within the mice subjects.
     
-    ![bay](Part-1/01-HW_PyPies/Images/PyPies.png)
     
-    ![bay1](Part-1/02-HW_ScatterPy/Images/IceCreamSales.png)
-    
-    ![bay2](Part-1/03-HW_AvgRain/Images/avg_state_rain.png)
     
 
 Disclaimer
