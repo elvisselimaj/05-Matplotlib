@@ -22,6 +22,13 @@ Conclusions
     With a correlation of 0.84, there is a positive correlation between average tumor volume and weight within the subject mice.
     Capomulin and Ramicane had the most data points out of all the drugs present in the study.
     Capomulin and Ramicane were also the most successful drugs in reducing the size of the tumors within the mice subjects.
+    
+    ![bay](Part-1/01-HW_PyPies/Images/PyPies.png)
+    
+    ![bay1](Part-1/02-HW_ScatterPy/Images/IceCreamSales.png)
+    
+    ![bay2](Part-1/03-HW_AvgRain/Images/avg_state_rain.png)
+    
 
 Disclaimer
 
